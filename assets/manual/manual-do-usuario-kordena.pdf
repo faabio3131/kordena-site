@@ -1,0 +1,277 @@
+%PDF-1.4
+%âãÏÓ
+1 0 obj
+<< /Type /Catalog /Pages 2 0 R >>
+endobj
+2 0 obj
+<< /Type /Pages /Count 6 /Kids [ 5 0 R 7 0 R 9 0 R 11 0 R 13 0 R 15 0 R ] >>
+endobj
+3 0 obj
+<< /Type /Font /Subtype /Type1 /BaseFont /Helvetica /Encoding /WinAnsiEncoding >>
+endobj
+4 0 obj
+<< /Type /Font /Subtype /Type1 /BaseFont /Helvetica-Bold /Encoding /WinAnsiEncoding >>
+endobj
+5 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 595 842] /Resources << /Font << /F1 3 0 R /F2 4 0 R >> >> /Contents 6 0 R >>
+endobj
+6 0 obj
+<< /Length 3761 >>
+stream
+0.975 0.981 0.997 rg 0 0 595 842 re f
+0.18 0.35 0.77 rg 0 814 595 28 re f
+1 1 1 rg BT /F2 10 Tf 1 0 0 1 52 824 Tm (KORDENA  /  MANUAL DO USUARIO) Tj ET
+0.30 0.40 0.58 rg BT /F1 8 Tf 1 0 0 1 52 45 Tm (FM Tecnologia IA  |  kordenaia.com.br  |  v1.0  07/11/2026) Tj ET
+0.100 0.230 0.560 rg BT /F2 22 Tf 1 0 0 1 52 781 Tm (Manual do usuario - Kordena) Tj ET
+0.210 0.290 0.420 rg BT /F1 11 Tf 1 0 0 1 52 747 Tm (Guia de uso e operacao do sistema de gestao para estabelecimentos de alimentacao.) Tj ET
+0.100 0.230 0.560 rg BT /F2 12 Tf 1 0 0 1 52 717 Tm (CONTEUDO) Tj ET
+0.160 0.200 0.300 rg BT /F1 10 Tf 1 0 0 1 54 693 Tm (1. Primeiros passos) Tj ET
+0.160 0.200 0.300 rg BT /F1 10 Tf 1 0 0 1 54 675 Tm (2. Usuários e permissões) Tj ET
+0.160 0.200 0.300 rg BT /F1 10 Tf 1 0 0 1 54 657 Tm (3. Configurar o estabelecimento) Tj ET
+0.160 0.200 0.300 rg BT /F1 10 Tf 1 0 0 1 54 639 Tm (4. Cardápio, produtos e preços) Tj ET
+0.160 0.200 0.300 rg BT /F1 10 Tf 1 0 0 1 54 621 Tm (5. Estoque e fichas técnicas) Tj ET
+0.160 0.200 0.300 rg BT /F1 10 Tf 1 0 0 1 54 603 Tm (6. Salão, mesas e comandas) Tj ET
+0.160 0.200 0.300 rg BT /F1 10 Tf 1 0 0 1 54 585 Tm (7. Caixa e PDV) Tj ET
+0.160 0.200 0.300 rg BT /F1 10 Tf 1 0 0 1 54 567 Tm (8. Produção e KDS) Tj ET
+0.160 0.200 0.300 rg BT /F1 10 Tf 1 0 0 1 54 549 Tm (9. Delivery e pedidos externos) Tj ET
+0.160 0.200 0.300 rg BT /F1 10 Tf 1 0 0 1 54 531 Tm (10. Atendente IA e WhatsApp) Tj ET
+0.160 0.200 0.300 rg BT /F1 10 Tf 1 0 0 1 54 513 Tm (11. Indicadores e conferência financeira) Tj ET
+0.160 0.200 0.300 rg BT /F1 10 Tf 1 0 0 1 54 495 Tm (12. Fiscal e NFCore) Tj ET
+0.160 0.200 0.300 rg BT /F1 10 Tf 1 0 0 1 54 477 Tm (13. Dúvidas frequentes e suporte) Tj ET
+0.080 0.240 0.570 rg BT /F2 15 Tf 1 0 0 1 52 447 Tm (1. Primeiros passos) Tj ET
+0.210 0.270 0.370 rg BT /F1 10 Tf 1 0 0 1 52 422 Tm (Use esta sequência para preparar o Kordena antes do primeiro atendimento.) Tj ET
+0.150 0.200 0.300 rg BT /F1 10 Tf 1 0 0 1 62 400 Tm (1. Abra https://app.kordenaia.com.br e entre com a conta autorizada para seu) Tj ET
+0.150 0.200 0.300 rg BT /F1 10 Tf 1 0 0 1 62 386 Tm (estabelecimento.) Tj ET
+0.150 0.200 0.300 rg BT /F1 10 Tf 1 0 0 1 62 365 Tm (2. Confirme a empresa, a unidade em operação e o perfil do usuário. Não compartilhe senhas) Tj ET
+0.150 0.200 0.300 rg BT /F1 10 Tf 1 0 0 1 62 351 Tm (entre funcionários.) Tj ET
+0.150 0.200 0.300 rg BT /F1 10 Tf 1 0 0 1 62 330 Tm (3. Preencha os dados cadastrais da unidade, horários e parâmetros operacionais disponíveis.) Tj ET
+0.150 0.200 0.300 rg BT /F1 10 Tf 1 0 0 1 62 309 Tm (4. Cadastre um cardápio inicial, os insumos e suas fichas técnicas antes de testar vendas.) Tj ET
+0.150 0.200 0.300 rg BT /F1 10 Tf 1 0 0 1 62 288 Tm (5. Faça uma venda de treinamento e confira o trajeto do pedido até a cozinha, o caixa e o) Tj ET
+0.150 0.200 0.300 rg BT /F1 10 Tf 1 0 0 1 62 274 Tm (estoque.) Tj ET
+0.200 0.350 0.600 rg BT /F1 9 Tf 1 0 0 1 62 248 Tm (Dica: A disponibilidade de recursos e telas depende do perfil, plano e configuração da) Tj ET
+0.200 0.350 0.600 rg BT /F1 9 Tf 1 0 0 1 62 234 Tm (unidade.) Tj ET
+0.080 0.240 0.570 rg BT /F2 15 Tf 1 0 0 1 52 197 Tm (2. Usuários e permissões) Tj ET
+0.210 0.270 0.370 rg BT /F1 10 Tf 1 0 0 1 52 172 Tm (Cada colaborador deve acessar somente as atividades da sua função.) Tj ET
+0.150 0.200 0.300 rg BT /F1 10 Tf 1 0 0 1 62 150 Tm (1. O proprietário ou administrador gerencia as permissões administrativas e informações) Tj ET
+0.150 0.200 0.300 rg BT /F1 10 Tf 1 0 0 1 62 136 Tm (sensíveis.) Tj ET
+0.150 0.200 0.300 rg BT /F1 10 Tf 1 0 0 1 62 115 Tm (2. O gerente acompanha a operação conforme as permissões concedidas, sem herdar) Tj ET
+0.150 0.200 0.300 rg BT /F1 10 Tf 1 0 0 1 62 101 Tm (automaticamente poderes de proprietário.) Tj ET
+endstream
+endobj
+7 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 595 842] /Resources << /Font << /F1 3 0 R /F2 4 0 R >> >> /Contents 8 0 R >>
+endobj
+8 0 obj
+<< /Length 4219 >>
+stream
+0.975 0.981 0.997 rg 0 0 595 842 re f
+0.18 0.35 0.77 rg 0 814 595 28 re f
+1 1 1 rg BT /F2 10 Tf 1 0 0 1 52 824 Tm (KORDENA  /  MANUAL DO USUARIO) Tj ET
+0.30 0.40 0.58 rg BT /F1 8 Tf 1 0 0 1 52 45 Tm (FM Tecnologia IA  |  kordenaia.com.br  |  v1.0  07/11/2026) Tj ET
+0.150 0.200 0.300 rg BT /F1 10 Tf 1 0 0 1 62 781 Tm (3. O caixa utiliza o PDV; o garçom opera mesas e comandas; a equipe da cozinha acompanha o) Tj ET
+0.150 0.200 0.300 rg BT /F1 10 Tf 1 0 0 1 62 767 Tm (KDS.) Tj ET
+0.150 0.200 0.300 rg BT /F1 10 Tf 1 0 0 1 62 746 Tm (4. Se um módulo não aparecer, confirme primeiro a unidade ativa e as permissões do usuário.) Tj ET
+0.150 0.200 0.300 rg BT /F1 10 Tf 1 0 0 1 62 725 Tm (5. Encerre a sessão em dispositivos compartilhados ao final do expediente.) Tj ET
+0.200 0.350 0.600 rg BT /F1 9 Tf 1 0 0 1 62 699 Tm (Dica: Alterações administrativas críticas podem exigir confirmação adicional da senha da) Tj ET
+0.200 0.350 0.600 rg BT /F1 9 Tf 1 0 0 1 62 685 Tm (própria conta.) Tj ET
+0.080 0.240 0.570 rg BT /F2 15 Tf 1 0 0 1 52 648 Tm (3. Configurar o estabelecimento) Tj ET
+0.210 0.270 0.370 rg BT /F1 10 Tf 1 0 0 1 52 623 Tm (Ajuste as informações da unidade que serão usadas nos pedidos e nos documentos) Tj ET
+0.210 0.270 0.370 rg BT /F1 10 Tf 1 0 0 1 52 607 Tm (operacionais.) Tj ET
+0.150 0.200 0.300 rg BT /F1 10 Tf 1 0 0 1 62 585 Tm (1. Confira nome, endereço, telefone, dados de contato e horários de funcionamento.) Tj ET
+0.150 0.200 0.300 rg BT /F1 10 Tf 1 0 0 1 62 564 Tm (2. Defina as formas de atendimento usadas pela operação: salão, balcão, retirada e/ou) Tj ET
+0.150 0.200 0.300 rg BT /F1 10 Tf 1 0 0 1 62 550 Tm (delivery.) Tj ET
+0.150 0.200 0.300 rg BT /F1 10 Tf 1 0 0 1 62 529 Tm (3. Revise áreas de entrega, taxas, tempo estimado e integrações de mapa, quando habilitadas.) Tj ET
+0.150 0.200 0.300 rg BT /F1 10 Tf 1 0 0 1 62 508 Tm (4. Confira a unidade selecionada antes de alterar o catálogo ou iniciar vendas.) Tj ET
+0.150 0.200 0.300 rg BT /F1 10 Tf 1 0 0 1 62 487 Tm (5. Registre as configurações que dependem de terceiros para ativá-las no piloto.) Tj ET
+0.200 0.350 0.600 rg BT /F1 9 Tf 1 0 0 1 62 461 Tm (Dica: Configurações fiscais, pagamentos e canais externos podem exigir credenciais) Tj ET
+0.200 0.350 0.600 rg BT /F1 9 Tf 1 0 0 1 62 447 Tm (próprias do estabelecimento.) Tj ET
+0.080 0.240 0.570 rg BT /F2 15 Tf 1 0 0 1 52 410 Tm (4. Cardápio, produtos e preços) Tj ET
+0.210 0.270 0.370 rg BT /F1 10 Tf 1 0 0 1 52 385 Tm (O cardápio é a fonte de produtos usada pelo atendimento, PDV e canais habilitados.) Tj ET
+0.150 0.200 0.300 rg BT /F1 10 Tf 1 0 0 1 62 363 Tm (1. Acesse a administração do catálogo com um usuário autorizado.) Tj ET
+0.150 0.200 0.300 rg BT /F1 10 Tf 1 0 0 1 62 342 Tm (2. Organize categorias e cadastre produtos com nome, preço, descrição e disponibilidade.) Tj ET
+0.150 0.200 0.300 rg BT /F1 10 Tf 1 0 0 1 62 321 Tm (3. Cadastre adicionais, complementos ou variações somente quando previstos nas telas da sua) Tj ET
+0.150 0.200 0.300 rg BT /F1 10 Tf 1 0 0 1 62 307 Tm (unidade.) Tj ET
+0.150 0.200 0.300 rg BT /F1 10 Tf 1 0 0 1 62 286 Tm (4. Confira preços, itens ativos e regras de venda antes de liberar o catálogo aos) Tj ET
+0.150 0.200 0.300 rg BT /F1 10 Tf 1 0 0 1 62 272 Tm (atendentes.) Tj ET
+0.150 0.200 0.300 rg BT /F1 10 Tf 1 0 0 1 62 251 Tm (5. Teste um pedido com itens reais e confirme o valor total no resumo.) Tj ET
+0.200 0.350 0.600 rg BT /F1 9 Tf 1 0 0 1 62 225 Tm (Dica: Caso a importação de cardápio por IA esteja disponível, revise e aprove todas as) Tj ET
+0.200 0.350 0.600 rg BT /F1 9 Tf 1 0 0 1 62 211 Tm (informações geradas antes de publicar. Não presuma que uma foto ou PDF já tenha sido) Tj ET
+0.200 0.350 0.600 rg BT /F1 9 Tf 1 0 0 1 62 197 Tm (importado automaticamente.) Tj ET
+0.080 0.240 0.570 rg BT /F2 15 Tf 1 0 0 1 52 160 Tm (5. Estoque e fichas técnicas) Tj ET
+0.210 0.270 0.370 rg BT /F1 10 Tf 1 0 0 1 52 135 Tm (A baixa correta de insumos depende do vínculo entre produtos vendidos e fichas técnicas.) Tj ET
+0.150 0.200 0.300 rg BT /F1 10 Tf 1 0 0 1 62 113 Tm (1. Cadastre cada insumo com sua unidade de medida, quantidade inicial e custo quando) Tj ET
+0.150 0.200 0.300 rg BT /F1 10 Tf 1 0 0 1 62 99 Tm (exigido.) Tj ET
+endstream
+endobj
+9 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 595 842] /Resources << /Font << /F1 3 0 R /F2 4 0 R >> >> /Contents 10 0 R >>
+endobj
+10 0 obj
+<< /Length 3837 >>
+stream
+0.975 0.981 0.997 rg 0 0 595 842 re f
+0.18 0.35 0.77 rg 0 814 595 28 re f
+1 1 1 rg BT /F2 10 Tf 1 0 0 1 52 824 Tm (KORDENA  /  MANUAL DO USUARIO) Tj ET
+0.30 0.40 0.58 rg BT /F1 8 Tf 1 0 0 1 52 45 Tm (FM Tecnologia IA  |  kordenaia.com.br  |  v1.0  07/11/2026) Tj ET
+0.150 0.200 0.300 rg BT /F1 10 Tf 1 0 0 1 62 781 Tm (2. Registre entradas, compras, ajustes e datas de validade disponíveis no sistema.) Tj ET
+0.150 0.200 0.300 rg BT /F1 10 Tf 1 0 0 1 62 760 Tm (3. Monte a ficha técnica do produto indicando os insumos e suas quantidades por porção.) Tj ET
+0.150 0.200 0.300 rg BT /F1 10 Tf 1 0 0 1 62 739 Tm (4. Faça uma venda de teste e compare as quantidades em estoque antes e depois da conclusão) Tj ET
+0.150 0.200 0.300 rg BT /F1 10 Tf 1 0 0 1 62 725 Tm (operacional.) Tj ET
+0.150 0.200 0.300 rg BT /F1 10 Tf 1 0 0 1 62 704 Tm (5. Investigue divergências de unidade de medida, ficha técnica ou estágio do pedido antes de) Tj ET
+0.150 0.200 0.300 rg BT /F1 10 Tf 1 0 0 1 62 690 Tm (ajustar o estoque.) Tj ET
+0.200 0.350 0.600 rg BT /F1 9 Tf 1 0 0 1 62 664 Tm (Dica: Uma venda só comprova baixa automática quando o movimento de estoque correspondente) Tj ET
+0.200 0.350 0.600 rg BT /F1 9 Tf 1 0 0 1 62 650 Tm (aparece no registro do sistema. Confira também cancelamentos e estornos.) Tj ET
+0.080 0.240 0.570 rg BT /F2 15 Tf 1 0 0 1 52 613 Tm (6. Salão, mesas e comandas) Tj ET
+0.210 0.270 0.370 rg BT /F1 10 Tf 1 0 0 1 52 588 Tm (Organize o atendimento presencial sem depender de anotações em papel.) Tj ET
+0.150 0.200 0.300 rg BT /F1 10 Tf 1 0 0 1 62 566 Tm (1. No módulo de Salão, selecione a mesa ou abra uma comanda disponível.) Tj ET
+0.150 0.200 0.300 rg BT /F1 10 Tf 1 0 0 1 62 545 Tm (2. Adicione produtos e quantidades e confira o pedido antes de confirmar.) Tj ET
+0.150 0.200 0.300 rg BT /F1 10 Tf 1 0 0 1 62 524 Tm (3. Acompanhe o encaminhamento para a produção e o estado da comanda.) Tj ET
+0.150 0.200 0.300 rg BT /F1 10 Tf 1 0 0 1 62 503 Tm (4. Quando houver suporte na unidade, utilize transferência de mesa, divisão de conta ou) Tj ET
+0.150 0.200 0.300 rg BT /F1 10 Tf 1 0 0 1 62 489 Tm (pagamento misto conforme as opções exibidas.) Tj ET
+0.150 0.200 0.300 rg BT /F1 10 Tf 1 0 0 1 62 468 Tm (5. Antes de encerrar, confirme itens, pagamentos e situação da mesa.) Tj ET
+0.200 0.350 0.600 rg BT /F1 9 Tf 1 0 0 1 62 442 Tm (Dica: As ações disponíveis variam conforme perfil e configuração do salão.) Tj ET
+0.080 0.240 0.570 rg BT /F2 15 Tf 1 0 0 1 52 405 Tm (7. Caixa e PDV) Tj ET
+0.210 0.270 0.370 rg BT /F1 10 Tf 1 0 0 1 52 380 Tm (Use o ponto de venda para registrar e conferir vendas de balcão e operações autorizadas.) Tj ET
+0.150 0.200 0.300 rg BT /F1 10 Tf 1 0 0 1 62 358 Tm (1. Abra o PDV com a sessão do caixa e confirme a unidade correta.) Tj ET
+0.150 0.200 0.300 rg BT /F1 10 Tf 1 0 0 1 62 337 Tm (2. Localize o produto, ajuste quantidades e revise preço, descontos e o valor total.) Tj ET
+0.150 0.200 0.300 rg BT /F1 10 Tf 1 0 0 1 62 316 Tm (3. Selecione uma forma de pagamento disponível e confira a confirmação retornada pelo) Tj ET
+0.150 0.200 0.300 rg BT /F1 10 Tf 1 0 0 1 62 302 Tm (sistema.) Tj ET
+0.150 0.200 0.300 rg BT /F1 10 Tf 1 0 0 1 62 281 Tm (4. Finalize a venda somente após validar o resultado; não marque um pagamento externo como) Tj ET
+0.150 0.200 0.300 rg BT /F1 10 Tf 1 0 0 1 62 267 Tm (recebido sem confirmação.) Tj ET
+0.150 0.200 0.300 rg BT /F1 10 Tf 1 0 0 1 62 246 Tm (5. Confira a situação da venda, a movimentação do caixa e eventuais estornos ou) Tj ET
+0.150 0.200 0.300 rg BT /F1 10 Tf 1 0 0 1 62 232 Tm (cancelamentos.) Tj ET
+0.200 0.350 0.600 rg BT /F1 9 Tf 1 0 0 1 62 206 Tm (Dica: Pix e cartões com liquidação real dependem de integração e credenciais do provedor.) Tj ET
+0.200 0.350 0.600 rg BT /F1 9 Tf 1 0 0 1 62 192 Tm (Faça a homologação antes de atender clientes.) Tj ET
+endstream
+endobj
+11 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 595 842] /Resources << /Font << /F1 3 0 R /F2 4 0 R >> >> /Contents 12 0 R >>
+endobj
+12 0 obj
+<< /Length 4205 >>
+stream
+0.975 0.981 0.997 rg 0 0 595 842 re f
+0.18 0.35 0.77 rg 0 814 595 28 re f
+1 1 1 rg BT /F2 10 Tf 1 0 0 1 52 824 Tm (KORDENA  /  MANUAL DO USUARIO) Tj ET
+0.30 0.40 0.58 rg BT /F1 8 Tf 1 0 0 1 52 45 Tm (FM Tecnologia IA  |  kordenaia.com.br  |  v1.0  07/11/2026) Tj ET
+0.080 0.240 0.570 rg BT /F2 15 Tf 1 0 0 1 52 781 Tm (8. Produção e KDS) Tj ET
+0.210 0.270 0.370 rg BT /F1 10 Tf 1 0 0 1 52 756 Tm (O KDS ajuda a equipe a acompanhar pedidos recebidos, em preparo e concluídos.) Tj ET
+0.150 0.200 0.300 rg BT /F1 10 Tf 1 0 0 1 62 734 Tm (1. Abra o painel da cozinha com o perfil autorizado.) Tj ET
+0.150 0.200 0.300 rg BT /F1 10 Tf 1 0 0 1 62 713 Tm (2. Confira os pedidos recém-encaminhados e os itens de cada comanda.) Tj ET
+0.150 0.200 0.300 rg BT /F1 10 Tf 1 0 0 1 62 692 Tm (3. Atualize o estágio de produção conforme as ações realmente disponíveis.) Tj ET
+0.150 0.200 0.300 rg BT /F1 10 Tf 1 0 0 1 62 671 Tm (4. Marque o pedido como pronto após conferência e encaminhe-o para entrega, retirada ou) Tj ET
+0.150 0.200 0.300 rg BT /F1 10 Tf 1 0 0 1 62 657 Tm (salão.) Tj ET
+0.150 0.200 0.300 rg BT /F1 10 Tf 1 0 0 1 62 636 Tm (5. Se um pedido não aparecer, verifique sua situação no PDV/Salão, filtros do KDS e unidade) Tj ET
+0.150 0.200 0.300 rg BT /F1 10 Tf 1 0 0 1 62 622 Tm (ativa.) Tj ET
+0.200 0.350 0.600 rg BT /F1 9 Tf 1 0 0 1 62 596 Tm (Dica: Evite confirmar pedidos repetidos para contornar uma atualização lenta. Verifique o) Tj ET
+0.200 0.350 0.600 rg BT /F1 9 Tf 1 0 0 1 62 582 Tm (estado antes de reenviar.) Tj ET
+0.080 0.240 0.570 rg BT /F2 15 Tf 1 0 0 1 52 545 Tm (9. Delivery e pedidos externos) Tj ET
+0.210 0.270 0.370 rg BT /F1 10 Tf 1 0 0 1 52 520 Tm (Acompanhe a jornada do pedido recebido até a saída e a entrega.) Tj ET
+0.150 0.200 0.300 rg BT /F1 10 Tf 1 0 0 1 62 498 Tm (1. Confira área atendida, horário, taxa e modalidade de retirada ou entrega.) Tj ET
+0.150 0.200 0.300 rg BT /F1 10 Tf 1 0 0 1 62 477 Tm (2. Revise endereço do cliente, produtos e valor antes da confirmação do pedido.) Tj ET
+0.150 0.200 0.300 rg BT /F1 10 Tf 1 0 0 1 62 456 Tm (3. Encaminhe o pedido à produção e acompanhe os estados operacionais no sistema.) Tj ET
+0.150 0.200 0.300 rg BT /F1 10 Tf 1 0 0 1 62 435 Tm (4. Na expedição, confira embalagem, itens e destinatário antes de liberar.) Tj ET
+0.150 0.200 0.300 rg BT /F1 10 Tf 1 0 0 1 62 414 Tm (5. Quando existir integração com iFood, 99Food ou mapas, confirme credenciais, autorização,) Tj ET
+0.150 0.200 0.300 rg BT /F1 10 Tf 1 0 0 1 62 400 Tm (sincronização e testes antes de operar.) Tj ET
+0.200 0.350 0.600 rg BT /F1 9 Tf 1 0 0 1 62 374 Tm (Dica: Uma integração anunciada no site não significa que o canal externo já esteja) Tj ET
+0.200 0.350 0.600 rg BT /F1 9 Tf 1 0 0 1 62 360 Tm (autorizado ou sincronizando na sua unidade.) Tj ET
+0.080 0.240 0.570 rg BT /F2 15 Tf 1 0 0 1 52 323 Tm (10. Atendente IA e WhatsApp) Tj ET
+0.210 0.270 0.370 rg BT /F1 10 Tf 1 0 0 1 52 298 Tm (A IA pode apoiar a conversa, mas a disponibilidade e a confirmação devem vir dos dados do) Tj ET
+0.210 0.270 0.370 rg BT /F1 10 Tf 1 0 0 1 52 282 Tm (estabelecimento.) Tj ET
+0.150 0.200 0.300 rg BT /F1 10 Tf 1 0 0 1 62 260 Tm (1. Configure o canal de atendimento apenas pelo fluxo autorizado e com credenciais válidas.) Tj ET
+0.150 0.200 0.300 rg BT /F1 10 Tf 1 0 0 1 62 239 Tm (2. Confira o nome configurado do assistente, catálogo, preços e regras de entrega da) Tj ET
+0.150 0.200 0.300 rg BT /F1 10 Tf 1 0 0 1 62 225 Tm (unidade.) Tj ET
+0.150 0.200 0.300 rg BT /F1 10 Tf 1 0 0 1 62 204 Tm (3. Simule perguntas de clientes, pedidos com adicionais e itens indisponíveis.) Tj ET
+0.150 0.200 0.300 rg BT /F1 10 Tf 1 0 0 1 62 183 Tm (4. Revise a confirmação do resumo antes de converter uma conversa em pedido.) Tj ET
+0.150 0.200 0.300 rg BT /F1 10 Tf 1 0 0 1 62 162 Tm (5. Quando houver dúvida ou exceção, encaminhe o atendimento à equipe humana e preserve o) Tj ET
+0.150 0.200 0.300 rg BT /F1 10 Tf 1 0 0 1 62 148 Tm (histórico.) Tj ET
+0.200 0.350 0.600 rg BT /F1 9 Tf 1 0 0 1 62 122 Tm (Dica: Não use um ambiente de teste para aceitar pagamentos ou pedidos reais sem validar a) Tj ET
+0.200 0.350 0.600 rg BT /F1 9 Tf 1 0 0 1 62 108 Tm (integração de ponta a ponta.) Tj ET
+endstream
+endobj
+13 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 595 842] /Resources << /Font << /F1 3 0 R /F2 4 0 R >> >> /Contents 14 0 R >>
+endobj
+14 0 obj
+<< /Length 4343 >>
+stream
+0.975 0.981 0.997 rg 0 0 595 842 re f
+0.18 0.35 0.77 rg 0 814 595 28 re f
+1 1 1 rg BT /F2 10 Tf 1 0 0 1 52 824 Tm (KORDENA  /  MANUAL DO USUARIO) Tj ET
+0.30 0.40 0.58 rg BT /F1 8 Tf 1 0 0 1 52 45 Tm (FM Tecnologia IA  |  kordenaia.com.br  |  v1.0  07/11/2026) Tj ET
+0.080 0.240 0.570 rg BT /F2 15 Tf 1 0 0 1 52 781 Tm (11. Indicadores e conferência financeira) Tj ET
+0.210 0.270 0.370 rg BT /F1 10 Tf 1 0 0 1 52 756 Tm (Use os relatórios para acompanhar a operação, sempre respeitando o alcance dos dados) Tj ET
+0.210 0.270 0.370 rg BT /F1 10 Tf 1 0 0 1 52 740 Tm (registrados.) Tj ET
+0.150 0.200 0.300 rg BT /F1 10 Tf 1 0 0 1 62 718 Tm (1. Confira o período, a unidade e as fontes de dados do relatório.) Tj ET
+0.150 0.200 0.300 rg BT /F1 10 Tf 1 0 0 1 62 697 Tm (2. Concilie vendas registradas, valores recebidos, cancelamentos e pedidos em aberto.) Tj ET
+0.150 0.200 0.300 rg BT /F1 10 Tf 1 0 0 1 62 676 Tm (3. Revise custos e consumo de insumos para interpretar CMV e margem bruta.) Tj ET
+0.150 0.200 0.300 rg BT /F1 10 Tf 1 0 0 1 62 655 Tm (4. Quando o valor parecer divergente, investigue pedidos, fichas técnicas e movimentos de) Tj ET
+0.150 0.200 0.300 rg BT /F1 10 Tf 1 0 0 1 62 641 Tm (estoque.) Tj ET
+0.150 0.200 0.300 rg BT /F1 10 Tf 1 0 0 1 62 620 Tm (5. Use os dados gerenciais como apoio; confirme informações contábeis com sua contabilidade.) Tj ET
+0.200 0.350 0.600 rg BT /F1 9 Tf 1 0 0 1 62 594 Tm (Dica: Lucro bruto e margem não equivalem automaticamente a lucro líquido. Taxas, despesas,) Tj ET
+0.200 0.350 0.600 rg BT /F1 9 Tf 1 0 0 1 62 580 Tm (impostos e liquidação de pagamentos podem demandar conciliação específica.) Tj ET
+0.080 0.240 0.570 rg BT /F2 15 Tf 1 0 0 1 52 543 Tm (12. Fiscal e NFCore) Tj ET
+0.210 0.270 0.370 rg BT /F1 10 Tf 1 0 0 1 52 518 Tm (A emissão fiscal depende de dados, certificado e homologação adequados à unidade e à) Tj ET
+0.210 0.270 0.370 rg BT /F1 10 Tf 1 0 0 1 52 502 Tm (jurisdição.) Tj ET
+0.150 0.200 0.300 rg BT /F1 10 Tf 1 0 0 1 62 480 Tm (1. Confira CNPJ ou dados do emitente, endereço e enquadramento fiscal com seu contador.) Tj ET
+0.150 0.200 0.300 rg BT /F1 10 Tf 1 0 0 1 62 459 Tm (2. Configure os certificados, CSC, credenciais de provedor e parâmetros exigidos para a UF) Tj ET
+0.150 0.200 0.300 rg BT /F1 10 Tf 1 0 0 1 62 445 Tm (ou município.) Tj ET
+0.150 0.200 0.300 rg BT /F1 10 Tf 1 0 0 1 62 424 Tm (3. Valide a modalidade de documento aplicável à operação: NFC-e, NF-e ou NFS-e.) Tj ET
+0.150 0.200 0.300 rg BT /F1 10 Tf 1 0 0 1 62 403 Tm (4. Execute a homologação oficial com a contabilidade antes de transmitir documentos em) Tj ET
+0.150 0.200 0.300 rg BT /F1 10 Tf 1 0 0 1 62 389 Tm (produção.) Tj ET
+0.150 0.200 0.300 rg BT /F1 10 Tf 1 0 0 1 62 368 Tm (5. Confira protocolo, autorização, rejeições e vínculos da venda com o documento emitido.) Tj ET
+0.200 0.350 0.600 rg BT /F1 9 Tf 1 0 0 1 62 342 Tm (Dica: Um documento preparado internamente não é uma nota autorizada. Não informe emissão) Tj ET
+0.200 0.350 0.600 rg BT /F1 9 Tf 1 0 0 1 62 328 Tm (concluída sem retorno oficial do ambiente competente.) Tj ET
+0.080 0.240 0.570 rg BT /F2 15 Tf 1 0 0 1 52 291 Tm (13. Dúvidas frequentes e suporte) Tj ET
+0.210 0.270 0.370 rg BT /F1 10 Tf 1 0 0 1 52 266 Tm (Use esta checklist antes de abrir um chamado.) Tj ET
+0.150 0.200 0.300 rg BT /F1 10 Tf 1 0 0 1 62 244 Tm (1. Não consigo entrar: confira usuário, senha, rede e se a conta está autorizada para a) Tj ET
+0.150 0.200 0.300 rg BT /F1 10 Tf 1 0 0 1 62 230 Tm (unidade.) Tj ET
+0.150 0.200 0.300 rg BT /F1 10 Tf 1 0 0 1 62 209 Tm (2. Produto ou menu sumiu: revise perfil, unidade ativa, disponibilidade do item e publicação) Tj ET
+0.150 0.200 0.300 rg BT /F1 10 Tf 1 0 0 1 62 195 Tm (do catálogo.) Tj ET
+0.150 0.200 0.300 rg BT /F1 10 Tf 1 0 0 1 62 174 Tm (3. Pedido não chegou à cozinha: confira situação do pedido, conexão e filtros do KDS.) Tj ET
+0.150 0.200 0.300 rg BT /F1 10 Tf 1 0 0 1 62 153 Tm (4. Estoque não baixou: confira ficha técnica, unidade de medida, estágio da venda e) Tj ET
+0.150 0.200 0.300 rg BT /F1 10 Tf 1 0 0 1 62 139 Tm (movimentos registrados.) Tj ET
+0.150 0.200 0.300 rg BT /F1 10 Tf 1 0 0 1 62 118 Tm (5. Pagamento ou nota não concluiu: consulte a resposta do provedor ou órgão competente, sem) Tj ET
+0.150 0.200 0.300 rg BT /F1 10 Tf 1 0 0 1 62 104 Tm (repetir a operação às cegas.) Tj ET
+endstream
+endobj
+15 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 595 842] /Resources << /Font << /F1 3 0 R /F2 4 0 R >> >> /Contents 16 0 R >>
+endobj
+16 0 obj
+<< /Length 759 >>
+stream
+0.975 0.981 0.997 rg 0 0 595 842 re f
+0.18 0.35 0.77 rg 0 814 595 28 re f
+1 1 1 rg BT /F2 10 Tf 1 0 0 1 52 824 Tm (KORDENA  /  MANUAL DO USUARIO) Tj ET
+0.30 0.40 0.58 rg BT /F1 8 Tf 1 0 0 1 52 45 Tm (FM Tecnologia IA  |  kordenaia.com.br  |  v1.0  07/11/2026) Tj ET
+0.150 0.200 0.300 rg BT /F1 10 Tf 1 0 0 1 62 781 Tm (6. Se persistir, anote horário, unidade, número do pedido e mensagem exibida, ocultando) Tj ET
+0.150 0.200 0.300 rg BT /F1 10 Tf 1 0 0 1 62 767 Tm (dados pessoais ou senhas.) Tj ET
+0.200 0.350 0.600 rg BT /F1 9 Tf 1 0 0 1 62 741 Tm (Dica: Suporte FM Tecnologia: WhatsApp +55 \(11\) 97835-0851. Nunca envie senhas, tokens,) Tj ET
+0.200 0.350 0.600 rg BT /F1 9 Tf 1 0 0 1 62 727 Tm (certificados privados ou dados completos de cartões.) Tj ET
+endstream
+endobj
+xref
+0 17
+0000000000 65535 f 
+0000000015 00000 n 
+0000000064 00000 n 
+0000000156 00000 n 
+0000000253 00000 n 
+0000000355 00000 n 
+0000000491 00000 n 
+0000004304 00000 n 
+0000004440 00000 n 
+0000008711 00000 n 
+0000008848 00000 n 
+0000012738 00000 n 
+0000012876 00000 n 
+0000017134 00000 n 
+0000017272 00000 n 
+0000021668 00000 n 
+0000021806 00000 n 
+trailer
+<< /Size 17 /Root 1 0 R >>
+startxref
+22617
+%%EOF
