@@ -1,0 +1,43 @@
+/* Manual Kordena - complemento isolado, sem modificar estilos globais. */
+.manual-hero{padding:80px 0 52px;border-bottom:1px solid var(--ln);background:radial-gradient(ellipse at 80% 0%,rgba(79,123,242,.16),transparent 58%),#07080c}
+.manual-hero h1{font-size:clamp(38px,6vw,68px);line-height:1.08;letter-spacing:-.04em;max-width:850px;margin:18px 0}
+.manual-hero p{max-width:810px;font-size:18px;color:var(--mu)}
+.manual-hero .manual-version{font-size:13px;max-width:900px;margin-top:22px}
+.manual-actions{display:flex;gap:12px;flex-wrap:wrap;margin-top:27px}
+.manual-actions button{cursor:pointer}
+.manual-layout{display:grid;grid-template-columns:minmax(240px,300px) minmax(0,1fr);gap:42px;align-items:start;padding-top:48px;padding-bottom:90px}
+.manual-sidebar-sticky{position:sticky;top:86px;max-height:calc(100vh - 100px);overflow:auto;scrollbar-width:thin}
+.manual-sidebar h2{font-size:18px;margin:0 0 14px}
+.manual-search-label{display:block;color:var(--mu);font-size:13px;margin:0 0 7px}
+#manual-search{width:100%;border:1px solid #414a5f;background:#121622;border-radius:12px;color:#fff;padding:13px 14px;font:inherit;outline-offset:3px}
+#manual-search:focus{outline:2px solid #80a3ff;border-color:#80a3ff}
+#manual-count{font-size:12px;color:var(--mu);margin:11px 0}
+.manual-toc{display:grid;gap:5px}
+.manual-toc-item{display:flex;align-items:center;gap:10px;border:1px solid transparent;padding:9px 10px;border-radius:10px;font-size:13px;color:#d4dbee;line-height:1.5}
+.manual-toc-item:hover,.manual-toc-item:focus-visible{background:#101a33;border-color:#3a4e84}
+.manual-toc-item>span:first-child{font:700 11px var(--fd);color:#83a5ff;min-width:22px}
+.manual-toc-item>span:last-child{margin-left:auto;color:#829ad0}
+.manual-pdf-small{display:block;margin-top:18px;color:#a9c0ff;text-decoration:underline;text-underline-offset:4px;font-weight:700;font-size:13px}
+.manual-content{min-width:0}
+.manual-note{padding:21px 24px;border-radius:16px;border:1px solid #3b4c79;background:linear-gradient(135deg,#121e35,#11141b)}
+.manual-note strong{color:#b7caff}
+.manual-note p{color:#d0d7e6;line-height:1.75;margin-top:6px}
+.manual-chapter{scroll-margin-top:90px;padding:40px 0;border-bottom:1px solid #282d3a}
+.manual-chapter-number{font:700 12px var(--fd);color:#8aacff;letter-spacing:.08em;text-transform:uppercase}
+.manual-chapter h2{font-size:clamp(24px,3vw,33px);line-height:1.25;letter-spacing:-.02em;margin:10px 0 12px}
+.manual-chapter-intro{color:#c7d0e0;font-size:16px;margin-bottom:19px}
+.manual-chapter ol{list-style:decimal outside;padding-left:27px;display:grid;gap:14px}
+.manual-chapter li{padding-left:7px;line-height:1.75;color:#e3e8f3}
+.manual-chapter li::marker{color:#80a3ff;font-weight:700}
+.manual-tip{border-left:3px solid #6e91f7;background:#101724;margin-top:24px;padding:15px 20px;border-radius:0 12px 12px 0}
+.manual-tip strong{color:#acc4ff;font-size:13px}
+.manual-tip p{margin-top:5px;color:#c6d0e4;line-height:1.7}
+.manual-back{display:inline-block;color:#a9c0ff;font-size:13px;margin-top:18px;text-decoration:underline;text-underline-offset:4px}
+.manual-help{padding:32px;margin-top:40px;border:1px solid #334675;background:#0c1220;border-radius:18px}
+.manual-help h2{font-size:25px;margin-bottom:8px}
+.manual-help p{color:var(--mu);margin-bottom:22px}
+.manual-no-results{padding:26px;color:var(--mu)}
+[hidden]{display:none!important}
+@media(max-width:850px){.manual-layout{grid-template-columns:1fr;gap:26px}.manual-sidebar-sticky{position:static;max-height:none}.manual-toc{grid-template-columns:repeat(2,minmax(0,1fr))}.manual-hero{padding:54px 0 42px}}
+@media(max-width:540px){.manual-hero p{font-size:16px}.manual-actions{display:grid}.manual-actions .btn{width:100%;justify-content:center}.manual-toc{grid-template-columns:1fr}.manual-layout{padding-top:26px}.manual-chapter{padding:30px 0}.manual-tip{padding:13px}}
+@media print{.nav,.foot,.manual-sidebar,.manual-actions,.manual-back,.manual-help{display:none!important}.manual-hero{padding:10px 0;background:#fff;color:#111;border:0}.manual-hero h1{font-size:27px}.manual-hero p,.manual-version{color:#333!important}.manual-layout{display:block;padding:0}.manual-note{background:#fff;color:#111;border:1px solid #ddd}.manual-note p,.manual-note strong{color:#111}.manual-chapter{break-inside:avoid-page;scroll-margin-top:0;color:#111}.manual-chapter *{color:#111!important}.manual-content{width:100%}body{background:#fff;color:#111}.wrap{width:100%}}
